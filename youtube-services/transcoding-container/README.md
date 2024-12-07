@@ -1,0 +1,1 @@
+Docker Command -> docker run -it -e video_file_url="http://192.168.1.7:5000/api/download/uploads/Twisters.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv" -v C:/Users/Lenovo/OneDrive/Desktop/LLD/youtube/youtube-services/transcoding-container/transcoded-videos:/home/app/tmp transcoder:1.0
